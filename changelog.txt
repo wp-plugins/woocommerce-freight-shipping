@@ -1,0 +1,4 @@
+*** WooCommerce Freight Center ***
+
+2015-04-16  1.0.0
+* Initial release
